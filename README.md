@@ -2,7 +2,11 @@
 
 ## Authenticate User Type 
 
+## Features
+
 - Redirects user/s to their respective dashboard after login.
+- Logout button
+- Dashboard interface
 
 User Type may be ```student```, ```faculty```, ```admin```
  
