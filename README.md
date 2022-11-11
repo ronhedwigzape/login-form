@@ -2,7 +2,11 @@
 
 ## Authenticate User Type 
 
+## Features
+
 - Redirects user/s to their respective dashboard after login.
+- Logout button
+- Dashboard interface
 
 User Type may be ```student```, ```faculty```, ```admin```
  
@@ -17,6 +21,6 @@ Section: **BSCS 3**
 ***
 
 ## Project Setup
-
+### Import school_db from /sql folder:
 1. Go to ```localhost/phpmyadmin```.
 2. Import ```school_db``` to sql database.
